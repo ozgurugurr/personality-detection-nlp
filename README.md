@@ -1,4 +1,4 @@
-# Derin Öğrenme İle Kişilik Tespiti
+# Deep Learning based Personality Detection
 
 ## İçerik
 - [Proje Tanımı](https://github.com/kaansonmezoz/personality-detection-nlp#proje-tanımı)
@@ -157,6 +157,12 @@ Bu verileri kullanarak paylaştıkları kendilerine ait olan kişilik özellikle
 toplam 660 kullanıcılı bir veri setimiz oluşmuş durumdadır.
 
 
-## Diğer Çalışmalar
-
-## Kamuya Açık Verisetleri
+@INPROCEEDINGS{9302239,
+  author={Sönmezöz, Kaan and Uğur, Özgür and Diri, Banu},
+  booktitle={2020 28th Signal Processing and Communications Applications Conference (SIU)}, 
+  title={MBTI Personality Prediction With Machine Learning}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-4},
+  doi={10.1109/SIU49456.2020.9302239}}
