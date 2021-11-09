@@ -156,7 +156,7 @@ Bu verileri kullanarak paylaştıkları kendilerine ait olan kişilik özellikle
 Çözmüş oldukları MBTI testi sonucundan çıkan kişiliklerini belirtmiş
 toplam 660 kullanıcılı bir veri setimiz oluşmuş durumdadır.
 
-
+```
 @INPROCEEDINGS{9302239,
   author={Sönmezöz, Kaan and Uğur, Özgür and Diri, Banu},
   booktitle={2020 28th Signal Processing and Communications Applications Conference (SIU)}, 
@@ -166,3 +166,5 @@ toplam 660 kullanıcılı bir veri setimiz oluşmuş durumdadır.
   number={},
   pages={1-4},
   doi={10.1109/SIU49456.2020.9302239}}
+  
+  ```
