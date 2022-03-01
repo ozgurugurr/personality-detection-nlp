@@ -1,4 +1,4 @@
-# Deep Learning based Personality Detection
+# MBTI Personality Prediction With Machine Learning
 
 ## İçerik
 - [Proje Tanımı](https://github.com/kaansonmezoz/personality-detection-nlp#proje-tanımı)
